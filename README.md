@@ -3,7 +3,7 @@
 ### C&#35; Snippets for NSS night class
 
 To add these to your visual studio, download these .snippet files and add them to the folder:
-C:\Users\[USERNAME]\Documents\Visual Studio 2013\Code Snippets\Visual C#\My Code Snippets
+C:\Users\[USERNAME]\Documents\Visual Studio 2015\Code Snippets\Visual C#\My Code Snippets
 
 Afterwards, go in Visual Studio and hit Ctrl-K, Ctrl-B to get in your code-snippet manager. Make sure that these files
 are listed under the "My Code Snippets" folder when viewing Visual C&#35;.
